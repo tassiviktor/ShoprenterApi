@@ -1,2 +1,4 @@
 # ShoprenterApi
-Low level request helper
+Low level API helper for Shoprenter V2 API.
+
+See code comments for examples.
